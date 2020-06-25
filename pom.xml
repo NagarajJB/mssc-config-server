@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.njb</groupId>
 	<artifactId>mssc-config-server</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.7-SNAPSHOT</version>
 	<name>mssc-config-server</name>
 	<description>mssc-config-server</description>
 
